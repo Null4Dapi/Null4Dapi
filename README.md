@@ -79,11 +79,8 @@ philosophy: "Un alma sana habita en una mente sana y un cuerpo sano"
 
 <div align="center">
 
-<a href="https://github.com/Null4Dapi/project-one">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Null4Dapi&repo=project-one&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</a>
-<a href="https://github.com/Null4Dapi/project-two">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Null4Dapi&repo=project-two&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<a href="https://github.com/Null4Dapi/Simulador-Campo-Electrico-3D">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Null4Dapi&repo=Simulador-Campo-Electrico-3D&theme=tokyonight&hide_border=true&bg_color=0D1117&cache=v"/>
 </a>
 
 </div>
