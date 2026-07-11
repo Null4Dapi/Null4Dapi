@@ -93,18 +93,20 @@ philosophy: "Un alma sana habita en una mente sana y un cuerpo sano"
 ```mermaid
 timeline
     title My path as a developer
-    2020 : First "Hello World"
-         : Discovered the power of code
-    2021 : First freelance job
-         : Deep-dived into JavaScript
-    2022 : First formal job
-         : Worked with agile teams
-    2023 : Led my first project
-         : Explored system architecture
-    2024 : Open source contributions
-         : Mentored other devs
-    2025 : Building the future
-         : Exploring applied AI
+    2016 : Built my first webpage
+         : Simple HTML at school, age 14
+    2023 : Started exploring programming seriously
+         : Diving deeper into the dev world
+    2024 : Came back stronger
+         : Picked up Python and started building websites
+         : Already made the real jump into serious coding
+    2025 : Fell in love with development
+         : Devoured YouTube content on architecture & requirements analysis
+         : Started designing personal systems
+    2026 : Explored physics simulations
+         : Built 3D Electric Field Simulator
+         : Presenting personal projects at programming fairs
+         : Midway through Software Engineering degree
 ```
 
 <br/>
